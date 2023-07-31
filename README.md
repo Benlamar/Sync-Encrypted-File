@@ -1,2 +1,6 @@
 # Sync-encrypted-file
-To run this program you need to the encryption service first. When ever a new file come to the watched folder the file get encrypted in the same path.
+This program is to illustrate how the WatchDog module in Python be used to monitor a given path for any changes or updates that happens.
+
+To run this program you need to the encryption service first. Whenever a new file comes to the watched folder the file gets encrypted in the same path.
+
+The encryption service is in this repository, https://github.com/Benlamar/Simple-Encryption-Service
